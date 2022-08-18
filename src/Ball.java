@@ -1,4 +1,4 @@
-
+package com.game.pingpong;
 
 import java.awt.*;
 import java.util.*;

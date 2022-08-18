@@ -1,4 +1,4 @@
-
+package com.game.pingpong;
 
 public class PongGame {
 
